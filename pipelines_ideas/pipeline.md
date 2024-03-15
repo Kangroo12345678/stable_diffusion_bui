@@ -1,0 +1,2 @@
+- Stable Diffusion 3 is built on Dit(Diffusion Transformer) while this version is not.
+- 
